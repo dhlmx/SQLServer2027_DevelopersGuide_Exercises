@@ -1,7 +1,6 @@
-SELECT
-	*
-FROM
-	Dimension.Customer;
+-- Core Transact-SQL SELECT statement elements
+
+SELECT * FROM Dimension.Customer;
 
 --
 
